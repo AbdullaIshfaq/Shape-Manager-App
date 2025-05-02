@@ -1,0 +1,24 @@
+Statistics for Shapes of Size Less Than: 80
+
+Total Count: 40
+
+Distribution of Colours:
+- red: 5
+- blue: 4
+- green: 5
+- purple: 5
+- pink: 3
+- yellow: 3
+- orange: 5
+- brown: 3
+- cyan: 3
+- magenta: 2
+- grey: 1
+- white: 1
+
+Average Size: 4322.13
+Smallest Size: 270.63
+Largest Size: 15393.80
+
+--------------------------------------------------------------------------------------------------------
+
